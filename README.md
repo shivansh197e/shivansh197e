@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh197e&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh197e" /> </p>
 
-- 🔭 I’m currently working on [ResuMate](Private Repository (Public Showcase Coming Soon))
+- 🔭 I’m currently working on [ResuMate](https://github.com/shivansh197e/ResuMate-Showcase)
 
 - 🌱 I’m currently learning **FastAPI, LLM Engineering, Machine Learning, Deep Learning**
 
